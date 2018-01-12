@@ -1,0 +1,24 @@
+{
+  "name": "susi_hangout",
+  "version": "1.0.0",
+  "description": "Bot for Google Hangouts",
+  "main": "app.js",
+  "scripts": {
+    "test": "(standard)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjuP92/new-project-1.git"
+  },
+  "author": "Anju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjuP92/new-project-1/issues"
+  },
+  "homepage": "https://github.com/AnjuP92/new-project-1#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hangouts-bot": "^0.2.1",
+    "request": "^2.83.0"
+  }
+}
